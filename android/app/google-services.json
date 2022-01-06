@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "606005247517",
+    "project_id": "quran-learning-5a7e7",
+    "storage_bucket": "quran-learning-5a7e7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:606005247517:android:680a41c8ebe03d9ab8d0f4",
+        "android_client_info": {
+          "package_name": "com.example.simple_quran_apps"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "606005247517-duplslfcfdk14iv48ket3u1fgu13ln7k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUVJbNV-PGCTa4SGwvEzil2Tg20F3EqYc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "606005247517-duplslfcfdk14iv48ket3u1fgu13ln7k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
